@@ -1,0 +1,17 @@
+# Ignore environment configs
+.env
+
+# Ignore bundler files
+.bundle/
+vendor/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore Ruby garbage
+*.gem
+*.rbc
+*.log
+
+# Ignore installed gems
+# Gemfile.lock
